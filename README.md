@@ -1,5 +1,7 @@
 # Liens utiles
 
+[Version en anglais](README-en.md)
+
 URL courte vers cette page : https://tinyurl.com/ansnps
 
 Fil TheLayoff.com en rapport : https://www.thelayoff.com/t/1m64dd53v
