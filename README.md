@@ -27,7 +27,13 @@ L'appel national du 5 novembre permet à chacun de faire grève sans autre justi
 
 ## En pratique
 
-Jeudi 5 novembre, ceux qui le souhaitent peuvent informer les ressources humaines ainsi que les représentants de la direction par email de leur participation au mouvement de grève national. Cette étape n'est pas obligatoire, comme le rappelle [service-public.fr](https://www.service-public.gouv.fr/particuliers/vosdroits/F117#accordion-chapter-btn-4) :
+Jeudi 5 novembre, ceux qui le souhaitent peuvent informer par email de leur participation au mouvement de grève national :
+
+  - les ressources humaines
+  - les représentants de la direction
+  - les membres du CSE
+  - 
+Cette étape n'est pas obligatoire, comme le rappelle [service-public.fr](https://www.service-public.gouv.fr/particuliers/vosdroits/F117#accordion-chapter-btn-4) :
 
 > Non, le salarié n'a pas à informer son employeur de son intention de faire grève.
 >
