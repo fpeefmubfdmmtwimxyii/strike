@@ -39,4 +39,8 @@ Toutefois, puisque nous souhaitons joindre des revendications liées au PSE à c
 
 En attendant le 5 novembre, contribuez avec vos idées [en ouvrant une _issue_](https://github.com/fpeefmubfdmmtwimxyii/strike/issues/new). Nous vous conseillons d'utiliser un compte GitHub dissocié de votre ou vos comptes habituels pour préserver votre identité. N'utilisez en aucun cas un compte GitHub professionnel ! Si vous ne parvenez pas à créer un compte GitHub, demandez de l'aide à un ami ou un collègue, ce ne sont pas les développeurs qui manquent.
 
+Vous pouvez commencer par [voter pour la grève du 5](https://github.com/fpeefmubfdmmtwimxyii/strike/issues/1) !
+
 Partagez l'information autour de vous, à l'occasion d'une discussion avec un collègue. L'URL courte https://tinyurl.com/ansnps vous aidera à le partager oralement.
+
+Puisque ce  repository est public, des personnes extérieures ou des trolls pourraient s'inviter à la conversation. Nous ferons de notre mieux pour modérer le contenu.
