@@ -39,7 +39,7 @@ This notice is not mandated by law, as written on [service-public.fr](https://ww
 >
 > It is up to the employer to note the absence of the employee on the day of the strike and to ask him the reasons for his absence. However, the employee can inform his employer of his absence if he wishes.
 
-However, since we want to add our own claims related to the PSE, we believe it would be beneficial that strikers signal themselves individually. We prepared a short [communiqué for that purpose](communiqué-en.md).
+However, since we want to add our own claims related to the PSE, we believe it would be beneficial that strikers signal themselves individually. We prepared a short [communiqué for that purpose](communiqué-fr.md).
 
 ## Contribute!
 
