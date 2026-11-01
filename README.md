@@ -1,6 +1,6 @@
 # Liens utiles
 
-Version en anglais: README-en.md
+[Version en anglais](README-en.md)
 
 URL courte vers cette page : https://tinyurl.com/ansnps
 
