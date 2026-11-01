@@ -1,5 +1,7 @@
 # Useful links
 
+[French version](README.md)
+
 Short URL to this repo: https://tinyurl.com/ansnps
 
 TheLayoff.com thread: https://www.thelayoff.com/t/1m64dd53v
