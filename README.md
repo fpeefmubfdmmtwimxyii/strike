@@ -32,7 +32,7 @@ Jeudi 5 novembre, ceux qui le souhaitent peuvent informer par email de leur part
   - les ressources humaines
   - les représentants de la direction
   - les membres du CSE
-  - 
+ 
 Cette étape n'est pas obligatoire, comme le rappelle [service-public.fr](https://www.service-public.gouv.fr/particuliers/vosdroits/F117#accordion-chapter-btn-4) :
 
 > Non, le salarié n'a pas à informer son employeur de son intention de faire grève.
