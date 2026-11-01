@@ -41,7 +41,7 @@ Cette étape n'est pas obligatoire, comme le rappelle [service-public.fr](https:
 >
 > C'est à l'employeur de constater l'absence du salarié le jour de la grève et de lui demander les raisons de son absence. Le salarié peut cependant prévenir son employeur de son absence s'il le souhaite.
 
-Toutefois, puisque nous souhaitons joindre des revendications liées au PSE à ce mouvement de grève, nous pensons qu'il serait utile de se signaler tous individuellement en y joignant le [communiqué prêt à l'emploi](https://www.thelayoff.com/t/1m64dd53v).
+Toutefois, puisque nous souhaitons joindre des revendications liées au PSE à ce mouvement de grève, nous pensons qu'il serait utile de se signaler tous individuellement en y joignant le [communiqué prêt à l'emploi](communiqué-fr.md).
 
 ## Participez !
 
