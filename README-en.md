@@ -27,13 +27,13 @@ As explained on [service-public.fr](https://www.service-public.gouv.fr/particuli
 
 ## In practice
 
-On Thursday, those who are willing to can inform by email that they join the national call for strike:
+On Thursday, inform by email the following people that you are joining the national call for strike:
 
   - Human Resources
   - the General Manager
   - CSE members
  
-This notice is not mandated by law, as written on [service-public.fr](https://www.service-public.gouv.fr/particuliers/vosdroits/F117#accordion-chapter-btn-4) :
+Note that this notice is not mandated by law, as written on [service-public.fr](https://www.service-public.gouv.fr/particuliers/vosdroits/F117#accordion-chapter-btn-4) :
 
 > No, the employee does not have to inform his employer of his intention to strike.
 >
@@ -49,4 +49,4 @@ Make your first steps by [voting for Nov. 5's strike](https://github.com/fpeefmu
 
 Spread the word whenever you can. The shortened URL https://tinyurl.com/ansnps will come in handy to share it verbally.
 
-Note that because this repository is public, people from outside the companies or even troll could join the party. We will do our best to keep the content under control, but don't take anything in issues at face value.
+Note that because this repository is public, people from outside the companies or even trolls could spoil the party. We will do our best to keep the content under control, but don't take anything in issues at face value.
