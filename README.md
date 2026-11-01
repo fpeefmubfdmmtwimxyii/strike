@@ -12,7 +12,7 @@ Nous avons déjà subi un PSE en début d'année, qui n'avait pas plus de justif
 
 # Première étape le 5 novembre 2026
 
-Les syndicats ont lancé un appel à la grève le 5 novembre 2026. ([lire celui de la CGT](https://www.cgtetat.fr/societe-959/mobilisations/article/5-novembre-appel-a-la-mobilisation-pour-les-salaires-les-services-publics-l)). Si les motivations de cet appel sont sans rapport direct avec les PSE, ils sont une opportunité qui simplifient la grève. Et rien n'empêche d'ajouter nos propres revendications !
+Les syndicats ont lancé un appel à la grève le 5 novembre 2026 ([lire le communiqué de la CGT](https://www.cgtetat.fr/societe-959/mobilisations/article/5-novembre-appel-a-la-mobilisation-pour-les-salaires-les-services-publics-l)). Si les motivations de cet appel sont sans rapport direct avec les PSE, il est une opportunité qui simplifi la grève. Et rien n'empêche d'ajouter nos propres revendications !
 
 Comme l'indique [service-public.fr](https://www.service-public.gouv.fr/particuliers/vosdroits/F117#accordion-chapter-btn-1) :
 
