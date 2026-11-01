@@ -8,7 +8,7 @@ Fil TheLayoff.com en rapport : https://www.thelayoff.com/t/1m64dd53v
 
 Les PSE mis en place par les deux entreprises ne sont justifiés par aucune raison économique valable. La seule motivation est une augmentation des profits.
 
-Nous avons déjà subi un PSE en début d'année, qui n'avait pas plus de justification objective. Cette seconde vague est au choix une confirmation de la décorrélation des PSE avec la réalité économique des entreprises ou un aveu de l'incompétence de leurs dirigeants.
+Nous avons déjà subi un PSE en début d'année, qui n'avait pas plus de justification objective. Cette seconde vague est au choix une confirmation de la décorrélation des PSE avec la réalité économique des entreprises ou un aveu de l'inutilité de ceux-ci.
 
 # Première étape le 5 novembre 2026
 
